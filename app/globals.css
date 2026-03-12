@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-brand: #51c878;
+  --color-brand-light: #e8f7ec;
+  --color-status-preparing: #f97316;
+  --color-status-ready: #22c55e;
+  --radius-custom: 12px;
+}
